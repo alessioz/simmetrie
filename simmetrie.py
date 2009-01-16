@@ -35,7 +35,7 @@ class Gui:
 		self.crea_menu_file()
 		self.crea_menu_info()
 		self.crea_canvas_immagine()
-		self.image = Image.open("logoMTSN.jpg")
+		self.image = Image.open("logo.jpg")
 		self.dimensioni_video()
 		self.mostra_immagine_iniziale()
 		
